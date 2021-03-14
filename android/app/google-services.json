@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157184456145",
+    "project_id": "instaclon-papa",
+    "storage_bucket": "instaclon-papa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157184456145:android:24e734a8e684bebd0b1cf0",
+        "android_client_info": {
+          "package_name": "com.htiobjsky.instagram_two_record"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157184456145-roct342t54tscqq1ljoih6tvkla0sgcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1BSGTwv_FpwZN7boVPL3SLCZ_Ps_PqEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157184456145-roct342t54tscqq1ljoih6tvkla0sgcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
